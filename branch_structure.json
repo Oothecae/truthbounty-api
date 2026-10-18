@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "security/issue-601-prewave-be-006-publish-verifier-eligibility-and",
+    "security/issue-628-prewave-be-035-validate-realtime-configuration"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "security/issue-601-prewave-be-006-publish-verifier-eligibility-and": "main",
+    "security/issue-628-prewave-be-035-validate-realtime-configuration": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "security/issue-601-prewave-be-006-publish-verifier-eligibility-and",
+    "security/issue-628-prewave-be-035-validate-realtime-configuration"
+  ]
+}
